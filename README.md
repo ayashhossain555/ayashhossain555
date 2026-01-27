@@ -1,19 +1,29 @@
 <!-- Profile README for: ayashhossain555 -->
 
-<h1 align="center">Ayash Hossain Chowdhury</h1>
+<h1 align="center">Hey, I’m Ayash Hossain Chowdhury 👋</h1>
 <p align="center">
   <b>AI/ML Engineer</b> • <b>Full-Stack Engineer</b> • RAG/LLM Systems • Real-time Agents • Cloud/DevOps
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayashhossain555&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://ayash-hossain-chowdhury.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ayash--hossain--chowdhury.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:ayash.hossain.chowdhury@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayash.hossain.chowdhury%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ayash.hossain.chowdhury%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ayash-hossain-chowdhury/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayash%20Hossain%20Chowdhury-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayash%20Hossain%20Chowdhury-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ayash-hossain-chowdhury.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://github.com/ayashhossain555">
+    <img src="https://img.shields.io/badge/GitHub-ayashhossain555-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,54 +34,82 @@
 ---
 
 ## ⚡ Snapshot
-- 🔎 Build **RAG + Document AI** pipelines (ingest → parse → chunk → embed → retrieve → answer)
-- 🎙️ Build **real-time agent systems** (voice/streaming workflows, tool calling, low-latency mindset)
-- 🌐 Ship **full-stack products** with **Next.js/React + FastAPI/Node**
-- ☁️ Deploy on **AWS/Azure**, containerized with **Docker**, automated with **CI/CD**
-- 🗺️ Automate **data/GIS workflows** for real-world decision support
+- 🔎 **RAG + Document AI**: ingest → parse → chunk → embed → retrieve → answer  
+- 🎙️ **Real-time agents**: streaming workflows, tool calling, low-latency + reliability mindset  
+- 🌐 **Full-stack shipping**: Next.js/React + FastAPI/Node APIs  
+- ☁️ **Cloud + DevOps**: AWS/Azure, Docker, CI/CD
 
+```bash
 $ whoami
 Ayash — AI/ML + Full-Stack | RAG/Agents | Cloud | FastAPI/Next.js
+```
 
-$ principles
-ship > polish | metrics > vibes | automate > manual
-🌐 Portfolio (Main Showcase)
-👉 Live Portfolio: https://ayash-hossain-chowdhury.vercel.app/
+---
 
-🧰 Skills (Recruiter-friendly)
-Core
-AI/ML: RAG, embeddings, vector search (FAISS), evaluation, prompt/tool orchestration
+## 🧠 Tech Stack (clearly highlighted)
 
-Backend: FastAPI, Node.js/Express, REST, WebSockets, JWT-style auth
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=white)
 
-Frontend: Next.js, React, Redux, Tailwind
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Cloud/DevOps: AWS (EC2/S3/IAM/RDS), Azure services, Docker, GitHub Actions
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-111?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-Data: PostgreSQL, MongoDB, MySQL
+### 🧠 AI / LLM Systems
+![RAG](https://img.shields.io/badge/RAG-111?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-111?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=white)
 
-Icons (clean + modern)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=white)
 
-🧪 What I Build (high-signal keywords)
-Document ingestion + parsing + chunking pipelines
+### ☁️ Cloud / DevOps
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
 
-Embedding + retrieval + reranking patterns
+---
 
-API-first products with dashboards + auth + integrations
+## 🧪 What I build (high-signal)
+- Document ingestion + parsing + chunking pipelines
+- Embeddings + retrieval (FAISS) + answer generation workflows
+- API-first products with dashboards + auth + integrations
+- Real-time systems (WebSockets / WebRTC-style agent pipelines)
+- Production deployments (Docker, CI/CD, reliability mindset)
 
-Realtime systems: WebSockets / WebRTC-style workflows
+---
 
-Production deployments: Docker, CI/CD, logging/monitoring mindset
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayashhossain555&show_icons=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayashhossain555&layout=compact" />
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayashhossain555&show_icons=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayashhossain555&layout=compact" /> </p> <p align="center"> <img height="180" src="https://streak-stats.demolab.com?user=ayashhossain555" /> </p>
-🤝 Connect
-Portfolio: https://ayash-hossain-chowdhury.vercel.app/
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=ayashhossain555" />
+</p>
 
-LinkedIn: https://www.linkedin.com/in/ayash-hossain-chowdhury/
+---
 
-Email: ayash.hossain.chowdhury@gmail.com
-
-
-If you want, tell me **which 3–6 repos** you’re most proud of, and I’ll add a **“Featured Projects”** section that links them under your Portfolio (without showing “Top Repo” widgets).
-::contentReference[oaicite:1]{index=1}
+## 🤝 Quick Links
+- 🌐 Portfolio: https://ayash-hossain-chowdhury.vercel.app/
+- 🔗 LinkedIn: https://www.linkedin.com/in/ayash-hossain-chowdhury/
+- ✉️ Email: ayash.hossain.chowdhury@gmail.com
