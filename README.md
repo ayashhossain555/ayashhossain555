@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ayash-hossain-chowdhury.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ayash--hossain--chowdhury.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.ayash.ai/">
+    <img src="https://img.shields.io/badge/Portfolio-ayash.ai-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
